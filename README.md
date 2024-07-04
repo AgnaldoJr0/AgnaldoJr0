@@ -1,4 +1,6 @@
 # Olá, sou o Agnaldo 😃
+Amo Tecnologia e sempre tento aprender algo novo.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AgnaldoJr0&theme=bear&background=000&border=30A3DC&dates=FFF&card_width=1000)](https://git.io/streak-stats)
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnaldo-leal-107124263/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgnaldoJr0)
@@ -15,5 +17,5 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgnaldoJr0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AgnaldoJr0&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgnaldoJr0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&card_width=500)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AgnaldoJr0&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&card_width=500)
