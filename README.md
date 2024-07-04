@@ -1,5 +1,6 @@
 # Olá, sou o Agnaldo 😃
-##Amo Tecnologia e sempre tento aprender algo novo.
+## Amo Tecnologia e sempre tento aprender algo novo.
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AgnaldoJr0&theme=bear&background=000&border=30A3DC&dates=FFF&card_width=1000)](https://git.io/streak-stats)
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnaldo-leal-107124263/)
