@@ -1,5 +1,5 @@
 # Olá, sou o Agnaldo 
-Tenho 23 anos e estou tentando me aprimorar como dev para conseguir minha primeira oportunidade.
+Tenho 24 anos e estou tentando me aprimorar como dev para conseguir minha primeira oportunidade.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AgnaldoJr0&theme=bear&background=000&border=30A3DC&dates=FFF&card_width=1000)](https://git.io/streak-stats)
 ## Conecte-se comigo
